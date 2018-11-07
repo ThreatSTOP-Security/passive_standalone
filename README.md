@@ -7,10 +7,14 @@ The script is based on DNSDB data by Farsight and requires an API key.
 `farsight_standalone.py 209.99.40.222 198.57.247.217 -l 10000 -d 7 30 90`
 
 ##### Simple Output
+<p align="center">
 <img src="images/simple.png">
+</p>
 
 ##### Excel output
+<p align="center">
 <img src="images/excel.png">
+</p>
 
 ### Flags
 
