@@ -10,7 +10,7 @@ The script is based on DNSDB data by Farsight and requires an API key.
 <img src="images/simple.png">
 
 ##### Excel output
-<<img src="images/excel.png">
+<img src="images/excel.png">
 
 ### Flags
 
