@@ -6,6 +6,11 @@ The script is based on DNSDB data by Farsight and requires an API key.
 ##### Typical usage example:
 `farsight_standalone.py 209.99.40.222 198.57.247.217 -l 10000 -d 7 30 90`
 
+##### Simple Output
+[[images/simple.png]]
+
+##### Excel output
+[[images/excel.png]]
 
 ### Flags
 
