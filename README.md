@@ -4,7 +4,7 @@ The script takes IPs and Periods and retrieves data regarding the most common TL
 The script is based on DNSDB data by Farsight and requires an API key.
 
 ##### Typical usage example:
-    `farsight_standalone.py 209.99.40.222 198.57.247.217 -l 10000 -d 7 30 90`
+`farsight_standalone.py 209.99.40.222 198.57.247.217 -l 10000 -d 7 30 90`
 
 
 ### Flags
