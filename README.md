@@ -20,4 +20,5 @@ The script is based on DNSDB data by Farsight and requires an API key.
 
 - --excel (-e): The script will not save an excel file (only simple text output)
 
-[ThreatSTOP](http://www.threatstop.com/).
+
+[ThreatSTOP](http://www.threatstop.com/)
