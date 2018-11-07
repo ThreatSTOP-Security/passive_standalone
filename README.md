@@ -6,11 +6,9 @@ The script is based on DNSDB data by Farsight and requires an API key.
 ##### Typical usage example:
 `farsight_standalone.py 209.99.40.222 198.57.247.217 -l 10000 -d 7 30 90`
 
-##### Simple Output
-![Simple Output](ThreatSTOP-Security.github.com/images/simple.png)
+![Simple Output](https://threatstop-security.github.io/images/simple.png)
 
-##### Excel output
-<img src="images/excel.png">
+![Excel Output](https://threatstop-security.github.io/images/excel.png)
 
 ### Flags
 
