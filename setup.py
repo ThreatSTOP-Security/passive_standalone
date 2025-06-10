@@ -12,7 +12,7 @@ setup(
     description='Check TOP TLDs per IP via Passive DNS.',
     long_description=open('README.txt').read(),
     install_requires=[
-        'requests==2.32.2',
+        'requests==2.32.4',
         'openpyxl==2.5.9',
         'tldextract==2.2.0']
 )
